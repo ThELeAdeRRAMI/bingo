@@ -6,8 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("514825204644446211")
 setInterval(function() {
-channel.send(`i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits i need credits
-`);
+channel.send(`salemsalemsalemsalemsalemsalemsalemsalemsalemsalemsalem`);
 }, 30)
 })
 client.on("message", function(message) {
